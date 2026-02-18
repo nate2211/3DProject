@@ -1,4 +1,5 @@
 # Nates3DRenderer (Block Pipeline)
+<img width="1915" height="1014" alt="Screenshot 2026-02-17 225418" src="https://github.com/user-attachments/assets/e7e780c5-2fca-4dba-8271-472a82dc8048" />
 
 A small block-based pipeline runner with a PyQt5 GUI.  
 You compose a pipeline as `stage1|stage2|stage3`, pass a payload, and optionally override parameters via “extras”.
